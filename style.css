@@ -1,0 +1,7 @@
+h1.logo { padding-bottom: 20px; border-bottom: solid 1px black; }
+h1.logo > a { text-decoration: none; color: black; }
+div.post { border-bottom: solid 1px black; }
+div.post > h2 > a { text-decoration: none; color: black; }
+p.side-show { display: none; }
+div.footer > p { text-align: center; }
+div.footer > p > a { text-decoration: none; }
